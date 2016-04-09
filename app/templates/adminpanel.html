@@ -1,10 +1,70 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+{% if title %}
+<title>{{ title }}</title>
+{% else %}
+<title>Untitled :(</title>
+{% endif %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/static/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="/static/css/style.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/static/css/tap-titans.css" type="text/css" media="all" />
+<script src="/static/js/jquery-1.11.3.min.js"></script>
+<script src="/static/js/bootstrap.js"></script>
 </head>
 <body>
-
+    <form action="/save_hero_cost" method="post" name="">
+        <div id="main_content" class="span4">
+            <div id="top_banner">
+                <h1>Tap Titans</h1>
+            </div>
+            <div id="middle_banner">
+                <label>Hero</label>
+                {% if heroes %}
+                <select id="hero_choice" name="hero_choice">
+                {% for hero in heroes %}
+                    <option value="{{ hero.id }}">{{ hero.name }}</option>
+                {% endfor %}
+                </select>
+                <script>
+                    $("#hero_choice").val({{ prev_hero_choice }});
+                </script>
+                <br />
+                {% else %}
+                <h3>Heroes not found :(</h3>
+                {% endif %}
+                <label>Skill</label>
+                <select id="skill_level" name="skill_level">
+                    <option value="10">10</option>
+                    <option value="25">25</option>
+                    <option value="50">50</option>
+                    <option value="100">100</option>
+                    <option value="200">200</option>
+                    <option value="400">400</option>
+                    <option value="800">800</option>
+                    <option value="1000">1000</option>
+                    <option value="1010">1010</option>
+                    <option value="1025">1025</option>
+                    <option value="1050">1050</option>
+                    <option value="1100">1100</option>
+                    <option value="1200">1200</option>
+                    <option value="1400">1400</option>
+                    <option value="1800">1800</option>
+                    <option value="2000">2000</option>
+                </select>
+                <script>
+                    $("#skill_level").val({{ prev_skill_level }});
+                </script>
+                <br />
+                <label>Cost </label><input name="cost" type="text" /><br />
+                <input type="submit" value="Save hero">
+            </div>
+            <div id="bottom_banner">
+                <span>© 2016 Durdle Labs</span>
+            </div>
+        </div>
+    </form>
 </body>
 </html>

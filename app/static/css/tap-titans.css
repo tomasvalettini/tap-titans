@@ -1,0 +1,45 @@
+#main_content {
+	margin: 0 15px;
+}
+
+#top_banner {
+	height: 100px;
+	background-color: #53B3CB;
+	color: white;
+	border-radius: 20px 20px 0px 0px;
+}
+
+#bottom_banner {
+	height: 50px;
+	background-color: #53B3CB;
+	color: white;
+	border-radius: 0px 0px 20px 20px;
+}
+
+#middle_banner {
+	color: #53B3CB;
+	border-width: 5px;
+	border-color: #53B3CB;
+	border-style: solid;
+	padding: 15px;
+}
+
+h1 {
+	margin-left: 50px;
+	font-size: 300%;
+	line-height: 100px;
+}
+
+span {
+	height: 50px;
+	margin-left: 50px;
+	line-height: 50px;
+	font-size: 150%;
+}
+
+#output {
+	margin-left: 0px;
+	font-size: 300%;
+	line-height: 75px;
+	text-align: center;
+}
