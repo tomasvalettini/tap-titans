@@ -2792,7 +2792,8 @@ def generate_updates():
 
         db.session.add(upgrade)
         hero_added_count += 1
-        msg += "Added " + heroes_db[u["hero_id"] - 1].name + " for level " + str(u["level"]) + "(" + str(hero_added_count) + ") <br />"
+        msg += "Added " + heroes_db[u["hero_id"] - 1].name + " for level " + str(u["level"]) + "(" + str(
+            hero_added_count) + ") <br />"
 
     db.session.commit()
     return msg
