@@ -83,6 +83,41 @@ def save_hero_cost():
 
 @app.route('/generate_updates')
 def generate_updates():
+    heroes = [
+        {'name': 'Takeda'},
+        {'name': 'Contessa'},
+        {'name': 'Hornetta'},
+        {'name': 'Mila'},
+        {'name': 'Terra'},
+        {'name': 'Inquisireaux'},
+        {'name': 'Charlotte'},
+        {'name': 'Jordaan'},
+        {'name': 'Jukka'},
+        {'name': 'Milo'},
+        {'name': 'Macelord'},
+        {'name': 'Gertrude'},
+        {'name': 'Twitterella'},
+        {'name': 'Master Hawk'},
+        {'name': 'Elpha'},
+        {'name': 'Poppy'},
+        {'name': 'Skulptor'},
+        {'name': 'Sterling'},
+        {'name': 'Orba'},
+        {'name': 'Remus'},
+        {'name': 'Mickey'},
+        {'name': 'Peter'},
+        {'name': 'Teeny'},
+        {'name': 'Deznis'},
+        {'name': 'Hamlette'},
+        {'name': 'Eistor'},
+        {'name': 'Flavius'},
+        {'name': 'Chester'},
+        {'name': 'Mohacas'},
+        {'name': 'Jacqulin'},
+        {'name': 'Pixie'},
+        {'name': 'Jackalope'},
+        {'name': 'Dark Lord'}
+    ]
     upgrades = [
         {
             "hero_id": 1,  # Takeda
@@ -2728,8 +2763,22 @@ def generate_updates():
 
     msg = ""
     hero_added_count = 0
-    heroes = models.Hero.query.order_by(models.Hero.id).all()
+    heroes_db = models.Hero.query.order_by(models.Hero.id).all()
     upgrades_db = models.Upgrade.query.order_by(models.Upgrade.id).all()
+
+    for h in heroes:
+        hero = None
+        for h_db in heroes_db:
+            if h['name'] == h_db.name:
+                hero = h_db
+                break
+
+    if hero is None:
+        hero = models.Hero(name=h['name'])
+
+    db.session.add(hero)
+    msg += "Added " + hero.name + "<br />"
+
     for u in upgrades:
         upgrade = None
         for ul_db in upgrades_db:
