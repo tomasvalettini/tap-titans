@@ -2773,11 +2773,11 @@ def generate_updates():
                 hero = h_db
                 break
 
-    if hero is None:
-        hero = models.Hero(name=h['name'])
+        if hero is None:
+            hero = models.Hero(name=h['name'])
 
-    db.session.add(hero)
-    msg += "Added " + hero.name + "<br />"
+        db.session.add(hero)
+        msg += "Added " + hero.name + "<br />"
 
     for u in upgrades:
         upgrade = None
@@ -2792,8 +2792,7 @@ def generate_updates():
 
         db.session.add(upgrade)
         hero_added_count += 1
-        msg += "Added " + heroes[u["hero_id"] - 1].name + " for level " + str(u["level"]) + "(" + str(
-            hero_added_count) + ") <br />"
+        msg += "Added " + heroes_db[u["hero_id"] - 1].name + " for level " + str(u["level"]) + "(" + str(hero_added_count) + ") <br />"
 
     db.session.commit()
     return msg
