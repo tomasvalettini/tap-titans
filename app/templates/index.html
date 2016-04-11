@@ -13,12 +13,15 @@
 <link rel="stylesheet" href="/static/css/tap-titans.css" type="text/css" media="all" />
 <script src="/static/js/jquery-1.11.3.min.js"></script>
 <script src="/static/js/bootstrap.js"></script>
+<script src="/static/js/js.cookie.js"></script>
 <script>
 $(document).ready(function() {
 	// last one saved: 326
 	// last checked skill: 326
-	// until hero tap damage: 416mm
-	var pos = 326;
+	// until hero tap damage: 445ii
+	var prevPos = Cookies.get('tap-titans-pos');
+	var pos = prevPos != undefined ? prevPos : -1;
+	pos = parseInt(pos) - 1;
 	var heroes = [];
 	{% if upgrades %}
 	    var i = 0
@@ -56,6 +59,7 @@ $(document).ready(function() {
 		}
 
 		$("#output").html(get_output(heroes, pos));
+		Cookies.set('tap-titans-pos', pos, { expires: 365 });
 	}
 
 	function previous_upgrade() {
@@ -66,6 +70,7 @@ $(document).ready(function() {
 		}
 
 		$("#output").html(get_output(heroes, pos));
+		Cookies.set('tap-titans-pos', pos, { expires: 365 });
 	}
 
 	heroes = sortByKey(heroes, 'coins');

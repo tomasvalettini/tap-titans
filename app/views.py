@@ -92,72 +92,72 @@ def generate_updates():
         {
             "hero_id": 1,  # Takeda
             "level": 25,
-            "cost": 1520
+            "cost": 1.52E+3
         },
         {
             "hero_id": 1,  # Takeda
             "level": 50,
-            "cost": 9290
+            "cost": 9.29E+3
         },
         {
             "hero_id": 1,  # Takeda
             "level": 100,
-            "cost": 354770
+            "cost": 345.77E+3
         },
         {
             "hero_id": 1,  # Takeda
             "level": 200,
-            "cost": 478230000
+            "cost": 478.23E+6
         },
         {
             "hero_id": 1,  # Takeda
             "level": 400,
-            "cost": 914810000000000
+            "cost": 914.81E+12
         },
         {
             "hero_id": 1,  # Takeda
             "level": 800,
-            "cost": 3.34E+027
+            "cost": 3.34E+27
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1000,
-            "cost": 1.28E+034
+            "cost": 1.28E+34
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1010,
-            "cost": 1.318E+034
+            "cost": 1.318E+34
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1025,
-            "cost": 3.905E+034
+            "cost": 3.905E+34
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1050,
-            "cost": 2.3814E+035
+            "cost": 2.3814E+35
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1100,
-            "cost": 8.85E+036
+            "cost": 8.85E+36
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1200,
-            "cost": 1.224E+040
+            "cost": 1.224E+40
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1400,
-            "cost": 2.343E+046
+            "cost": 2.343E+46
         },
         {
             "hero_id": 1,  # Takeda
             "level": 1800,
-            "cost": 7.42E+057
+            "cost": 7.42E+57
         },
         {
             "hero_id": 1,  # Takeda
@@ -167,77 +167,77 @@ def generate_updates():
         {
             "hero_id": 2,  # Contessa
             "level": 10,
-            "cost": 1800
+            "cost": 1.8E+3
         },
         {
             "hero_id": 2,  # Contessa
             "level": 25,
-            "cost": 5330
+            "cost": 5.33E+3
         },
         {
             "hero_id": 2,  # Contessa
             "level": 50,
-            "cost": 32540
+            "cost": 32.54E+3
         },
         {
             "hero_id": 2,  # Contessa
             "level": 100,
-            "cost": 1210000
+            "cost": 1.21E+6
         },
         {
             "hero_id": 2,  # Contessa
             "level": 200,
-            "cost": 1670000000
+            "cost": 1.67E+9
         },
         {
             "hero_id": 2,  # Contessa
             "level": 400,
-            "cost": 3.2E+015
+            "cost": 3.2E+15
         },
         {
             "hero_id": 2,  # Contessa
             "level": 800,
-            "cost": 1.171E+028
+            "cost": 1.171E+28
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1000,
-            "cost": 4.482E+034
+            "cost": 4.482E+34
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1010,
-            "cost": 4.619E+034
+            "cost": 4.619E+34
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1025,
-            "cost": 1.3668E+035
+            "cost": 1.3668E+35
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1050,
-            "cost": 8.3351E+035
+            "cost": 8.3351E+35
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1100,
-            "cost": 3.099E+037
+            "cost": 3.099E+37
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1200,
-            "cost": 4.287E+040
+            "cost": 4.287E+40
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1400,
-            "cost": 8.201E+046
+            "cost": 8.201E+46
         },
         {
             "hero_id": 2,  # Contessa
             "level": 1800,
-            "cost": 2.597E+058
+            "cost": 2.597E+58
         },
         {
             "hero_id": 2,  # Contessa
@@ -247,77 +247,77 @@ def generate_updates():
         {
             "hero_id": 3,  # Hornetta
             "level": 10,
-            "cost": 6940
+            "cost": 6.94E+3
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 25,
-            "cost": 20540
+            "cost": 20.54E+3
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 50,
-            "cost": 125280
+            "cost": 125.28E+3
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 100,
-            "cost": 4650000
+            "cost": 4.65E+6
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 200,
-            "cost": 6440000000
+            "cost": 6.44E+9
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 400,
-            "cost": 1.232E+016
+            "cost": 1.232E+16
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 800,
-            "cost": 4.51E+028
+            "cost": 4.51E+28
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1000,
-            "cost": 1.7257E+035
+            "cost": 1.7257E+35
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1010,
-            "cost": 1.7784E+035
+            "cost": 1.7784E+35
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1025,
-            "cost": 5.2621E+035
+            "cost": 5.2621E+35
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1050,
-            "cost": 3.2E+036
+            "cost": 3.2E+36
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1100,
-            "cost": 1.1934E+038
+            "cost": 1.1934E+38
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1200,
-            "cost": 1.6506E+041
+            "cost": 1.6506E+41
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1400,
-            "cost": 3.1575E+047
+            "cost": 3.1575E+47
         },
         {
             "hero_id": 3,  # Hornetta
             "level": 1800,
-            "cost": 1.0001E+059
+            "cost": 1.0001E+59
         },
         {
             "hero_id": 3,  # Hornetta
@@ -327,77 +327,77 @@ def generate_updates():
         {
             "hero_id": 4,  # Mila
             "level": 10,
-            "cost": 29360
+            "cost": 29.36E+3
         },
         {
             "hero_id": 4,  # Mila
             "level": 25,
-            "cost": 86900
+            "cost": 86.90E+3
         },
         {
             "hero_id": 4,  # Mila
             "level": 50,
-            "cost": 529950
+            "cost": 529.95E+3
         },
         {
             "hero_id": 4,  # Mila
             "level": 100,
-            "cost": 19700000
+            "cost": 19.70E+6
         },
         {
             "hero_id": 4,  # Mila
             "level": 200,
-            "cost": 27250000000
+            "cost": 27.25E+9
         },
         {
             "hero_id": 4,  # Mila
             "level": 400,
-            "cost": 5.214E+016
+            "cost": 5.214E+16
         },
         {
             "hero_id": 4,  # Mila
             "level": 800,
-            "cost": 1.9081E+029
+            "cost": 1.9081E+29
         },
         {
             "hero_id": 4,  # Mila
             "level": 1000,
-            "cost": 7.3E+035
+            "cost": 7.3E+35
         },
         {
             "hero_id": 4,  # Mila
             "level": 1010,
-            "cost": 7.5228E+035
+            "cost": 7.5228E+35
         },
         {
             "hero_id": 4,  # Mila
             "level": 1025,
-            "cost": 2.22E+036
+            "cost": 2.22E+36
         },
         {
             "hero_id": 4,  # Mila
             "level": 1050,
-            "cost": 1.357E+037
+            "cost": 1.357E+37
         },
         {
             "hero_id": 4,  # Mila
             "level": 1100,
-            "cost": 5.0483E+038
+            "cost": 5.0483E+38
         },
         {
             "hero_id": 4,  # Mila
             "level": 1200,
-            "cost": 6.9822E+041
+            "cost": 6.9822E+41
         },
         {
             "hero_id": 4,  # Mila
             "level": 1400,
-            "cost": 1.33E+048
+            "cost": 1.33E+48
         },
         {
             "hero_id": 4,  # Mila
             "level": 1800,
-            "cost": 3.8328E+059
+            "cost": 3.8328E+59
         },
         {
             "hero_id": 4,  # Mila
@@ -407,77 +407,77 @@ def generate_updates():
         {
             "hero_id": 5,  # Terra
             "level": 10,
-            "cost": 137050
+            "cost": 137.05E+3
         },
         {
             "hero_id": 5,  # Terra
             "level": 25,
-            "cost": 405540
+            "cost": 405.54E+3
         },
         {
             "hero_id": 5,  # Terra
             "level": 50,
-            "cost": 2470000
+            "cost": 2.47E+6
         },
         {
             "hero_id": 5,  # Terra
             "level": 100,
-            "cost": 91970000
+            "cost": 91.97E+6
         },
         {
             "hero_id": 5,  # Terra
             "level": 200,
-            "cost": 127200000000
+            "cost": 127.20E+9
         },
         {
             "hero_id": 5,  # Terra
             "level": 400,
-            "cost": 2.4334E+017
+            "cost": 2.4334E+17
         },
         {
             "hero_id": 5,  # Terra
             "level": 800,
-            "cost": 8.9044E+029
+            "cost": 8.9044E+29
         },
         {
             "hero_id": 5,  # Terra
             "level": 1000,
-            "cost": 3.4E+036
+            "cost": 3.4E+36
         },
         {
             "hero_id": 5,  # Terra
             "level": 1010,
-            "cost": 3.51E+036
+            "cost": 3.51E+36
         },
         {
             "hero_id": 5,  # Terra
             "level": 1025,
-            "cost": 1.038E+037
+            "cost": 1.038E+37
         },
         {
             "hero_id": 5,  # Terra
             "level": 1050,
-            "cost": 6.334E+037
+            "cost": 6.334E+37
         },
         {
             "hero_id": 5,  # Terra
             "level": 1100,
-            "cost": 2.35E+039
+            "cost": 2.35E+39
         },
         {
             "hero_id": 5,  # Terra
             "level": 1200,
-            "cost": 3.25E+042
+            "cost": 3.25E+42
         },
         {
             "hero_id": 5,  # Terra
             "level": 1400,
-            "cost": 6.23E+048
+            "cost": 6.23E+48
         },
         {
             "hero_id": 5,  # Terra
             "level": 1800,
-            "cost": 1.97E+060
+            "cost": 1.97E+60
         },
         {
             "hero_id": 5,  # Terra
@@ -487,77 +487,77 @@ def generate_updates():
         {
             "hero_id": 6,  # Inquisireaux
             "level": 10,
-            "cost": 701780
+            "cost": 701.78E+3
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 25,
-            "cost": 2070000
+            "cost": 2.07E+6
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 50,
-            "cost": 12660000
+            "cost": 12.66E+6
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 100,
-            "cost": 470940000
+            "cost": 470.94E+6
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 200,
-            "cost": 651340000000
+            "cost": 651.34E+9
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 400,
-            "cost": 1.24E+018
+            "cost": 1.24E+18
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 800,
-            "cost": 4.55E+030
+            "cost": 4.55E+30
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1000,
-            "cost": 1.744E+037
+            "cost": 1.744E+37
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1010,
-            "cost": 1.797E+037
+            "cost": 1.797E+37
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1025,
-            "cost": 5.318E+037
+            "cost": 5.318E+37
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1050,
-            "cost": 3.2435E+038
+            "cost": 3.2435E+38
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1100,
-            "cost": 1.206E+040
+            "cost": 1.206E+40
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1200,
-            "cost": 1.668E+043
+            "cost": 1.668E+43
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1400,
-            "cost": 3.191E+049
+            "cost": 3.191E+49
         },
         {
             "hero_id": 6,  # Inquisireaux
             "level": 1800,
-            "cost": 1.01E+061
+            "cost": 1.01E+61
         },
         {
             "hero_id": 6,  # Inquisireaux
@@ -567,77 +567,77 @@ def generate_updates():
         {
             "hero_id": 7,  # Charlotte
             "level": 10,
-            "cost": 3950000
+            "cost": 3.95E+6
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 25,
-            "cost": 11700000
+            "cost": 11.70E+6
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 50,
-            "cost": 71400000
+            "cost": 71.40E+6
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 100,
-            "cost": 2650000000
+            "cost": 2.65E+9
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 200,
-            "cost": 3670000000000
+            "cost": 3.67E+12
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 400,
-            "cost": 7.02E+018
+            "cost": 7.02E+18
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 800,
-            "cost": 2.57E+031
+            "cost": 2.57E+31
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1000,
-            "cost": 9.835E+037
+            "cost": 9.835E+37
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1010,
-            "cost": 1.0136E+038
+            "cost": 1.0136E+38
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1025,
-            "cost": 2.9991E+038
+            "cost": 2.9991E+38
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1050,
-            "cost": 1.82E+039
+            "cost": 1.82E+39
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1100,
-            "cost": 6.801E+040
+            "cost": 6.801E+40
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1200,
-            "cost": 9.407E+043
+            "cost": 9.407E+43
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1400,
-            "cost": 1.7996E+050
+            "cost": 1.7996E+50
         },
         {
             "hero_id": 7,  # Charlotte
             "level": 1800,
-            "cost": 5.698E+061
+            "cost": 5.698E+61
         },
         {
             "hero_id": 7,  # Charlotte
@@ -647,77 +647,77 @@ def generate_updates():
         {
             "hero_id": 8,  # Jordaan
             "level": 10,
-            "cost": 24520000
+            "cost": 24.52E+6
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 25,
-            "cost": 72570000
+            "cost": 72.57E+6
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 50,
-            "cost": 442550000
+            "cost": 442.55E+6
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 100,
-            "cost": 16450000000
+            "cost": 16.45E+9
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 200,
-            "cost": 22760000000000
+            "cost": 22.76E+12
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 400,
-            "cost": 4.354E+019
+            "cost": 4.354E+19
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 800,
-            "cost": 1.5934E+032
+            "cost": 1.5934E+32
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1000,
-            "cost": 6.0962E+038
+            "cost": 6.0962E+38
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1010,
-            "cost": 6.2822E+038
+            "cost": 6.2822E+38
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1025,
-            "cost": 1.85E+039
+            "cost": 1.85E+39
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1050,
-            "cost": 1.133E+040
+            "cost": 1.133E+40
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1100,
-            "cost": 4.2157E+041
+            "cost": 4.2157E+41
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1200,
-            "cost": 5.8307E+044
+            "cost": 5.8307E+44
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1400,
-            "cost": 1.11E+051
+            "cost": 1.11E+51
         },
         {
             "hero_id": 8,  # Jordaan
             "level": 1800,
-            "cost": 3.5316E+062
+            "cost": 3.5316E+62
         },
         {
             "hero_id": 8,  # Jordaan
@@ -725,79 +725,79 @@ def generate_updates():
             "cost": 0
         },
         {
-            "hero_id": 9,  # Jukka #Jukka
+            "hero_id": 9,  # Jukka
             "level": 10,
-            "cost": 245260000
+            "cost": 245.26E+6
         },
         {
-            "hero_id": 9,  # Jukka #Jukka
+            "hero_id": 9,  # Jukka
             "level": 25,
-            "cost": 725700000
+            "cost": 725.70E+6
         },
         {
-            "hero_id": 9,  # Jukka #Jukka
+            "hero_id": 9,  # Jukka
             "level": 50,
-            "cost": 4420000000
+            "cost": 4.42E+9
         },
         {
-            "hero_id": 9,  # Jukka #Jukka
+            "hero_id": 9,  # Jukka
             "level": 100,
-            "cost": 164580000000
+            "cost": 164.58E+9
         },
         {
-            "hero_id": 9,  # Jukka #Jukka
+            "hero_id": 9,  # Jukka
             "level": 200,
-            "cost": 227630000000000
+            "cost": 227.63E+12
         },
         {
-            "hero_id": 9,  # Jukka #Jukka
+            "hero_id": 9,  # Jukka
             "level": 400,
-            "cost": 4.3545E+020
+            "cost": 4.3545E+20
         },
         {
             "hero_id": 9,  # Jukka
             "level": 800,
-            "cost": 1.59E+033
+            "cost": 1.59E+33
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1000,
-            "cost": 6.09E+039
+            "cost": 6.09E+39
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1010,
-            "cost": 6.28E+039
+            "cost": 6.28E+39
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1025,
-            "cost": 1.858E+040
+            "cost": 1.858E+40
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1050,
-            "cost": 1.1335E+041
+            "cost": 1.1335E+41
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1100,
-            "cost": 4.21E+042
+            "cost": 4.21E+42
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1200,
-            "cost": 5.83E+045
+            "cost": 5.83E+45
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1400,
-            "cost": 1.115E+052
+            "cost": 1.115E+52
         },
         {
             "hero_id": 9,  # Jukka
             "level": 1800,
-            "cost": 3.53E+063
+            "cost": 3.53E+63
         },
         {
             "hero_id": 9,  # Jukka
@@ -807,77 +807,77 @@ def generate_updates():
         {
             "hero_id": 10,  # Milo
             "level": 10,
-            "cost": 1470000000
+            "cost": 1.47E+9
         },
         {
             "hero_id": 10,  # Milo
             "level": 25,
-            "cost": 4360000000
+            "cost": 4.36E+9
         },
         {
             "hero_id": 10,  # Milo
             "level": 50,
-            "cost": 26590000000
+            "cost": 26.59E+9
         },
         {
             "hero_id": 10,  # Milo
             "level": 100,
-            "cost": 988900000000
+            "cost": 988.90E+9
         },
         {
             "hero_id": 10,  # Milo
             "level": 200,
-            "cost": 1.36E+015
+            "cost": 1.36E+15
         },
         {
             "hero_id": 10,  # Milo
             "level": 400,
-            "cost": 2.61E+021
+            "cost": 2.61E+21
         },
         {
             "hero_id": 10,  # Milo
             "level": 800,
-            "cost": 9.57E+033
+            "cost": 9.57E+33
         },
         {
             "hero_id": 10,  # Milo
             "level": 1000,
-            "cost": 3.662E+040
+            "cost": 3.662E+40
         },
         {
             "hero_id": 10,  # Milo
             "level": 1010,
-            "cost": 3.774E+040
+            "cost": 3.774E+40
         },
         {
             "hero_id": 10,  # Milo
             "level": 1025,
-            "cost": 1.1168E+041
+            "cost": 1.1168E+41
         },
         {
             "hero_id": 10,  # Milo
             "level": 1050,
-            "cost": 6.811E+041
+            "cost": 6.811E+41
         },
         {
             "hero_id": 10,  # Milo
             "level": 1100,
-            "cost": 2.533E+043
+            "cost": 2.533E+43
         },
         {
             "hero_id": 10,  # Milo
             "level": 1200,
-            "cost": 3.503E+046
+            "cost": 3.503E+46
         },
         {
             "hero_id": 10,  # Milo
             "level": 1400,
-            "cost": 6.701E+052
+            "cost": 6.701E+52
         },
         {
             "hero_id": 10,  # Milo
             "level": 1800,
-            "cost": 2.122E+064
+            "cost": 2.122E+64
         },
         {
             "hero_id": 10,  # Milo
@@ -887,77 +887,77 @@ def generate_updates():
         {
             "hero_id": 11,  # Macelord
             "level": 10,
-            "cost": 9710000000
+            "cost": 9.71E+9
         },
         {
             "hero_id": 11,  # Macelord
             "level": 25,
-            "cost": 28750000000
+            "cost": 28.75E+9
         },
         {
             "hero_id": 11,  # Macelord
             "level": 50,
-            "cost": 175350000000
+            "cost": 175.35E+9
         },
         {
             "hero_id": 11,  # Macelord
             "level": 100,
-            "cost": 6520000000000
+            "cost": 6.52E+12
         },
         {
             "hero_id": 11,  # Macelord
             "level": 200,
-            "cost": 9.01E+015
+            "cost": 9.01E+15
         },
         {
             "hero_id": 11,  # Macelord
             "level": 400,
-            "cost": 1.725E+022
+            "cost": 1.725E+22
         },
         {
             "hero_id": 11,  # Macelord
             "level": 800,
-            "cost": 6.313E+034
+            "cost": 6.313E+34
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1000,
-            "cost": 2.4154E+041
+            "cost": 2.4154E+41
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1010,
-            "cost": 2.4891E+041
+            "cost": 2.4891E+41
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1025,
-            "cost": 7.365E+041
+            "cost": 7.365E+41
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1050,
-            "cost": 4.49E+042
+            "cost": 4.49E+42
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1100,
-            "cost": 1.6703E+044
+            "cost": 1.6703E+44
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1200,
-            "cost": 2.3102E+047
+            "cost": 2.3102E+47
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1400,
-            "cost": 4.4193E+053
+            "cost": 4.4193E+53
         },
         {
             "hero_id": 11,  # Macelord
             "level": 1800,
-            "cost": 1.3993E+065
+            "cost": 1.3993E+65
         },
         {
             "hero_id": 11,  # Macelord
@@ -967,77 +967,77 @@ def generate_updates():
         {
             "hero_id": 12,  # Gertrude
             "level": 10,
-            "cost": 70480000000
+            "cost": 70.48E+9
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 25,
-            "cost": 208560000000
+            "cost": 208.56E+9
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 50,
-            "cost": 1270000000000
+            "cost": 1.27E+12
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 100,
-            "cost": 47300000000000
+            "cost": 47.30E+12
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 200,
-            "cost": 6.542E+016
+            "cost": 6.542E+16
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 400,
-            "cost": 1.2514E+023
+            "cost": 1.2514E+23
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 800,
-            "cost": 4.5794E+035
+            "cost": 4.5794E+35
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1000,
-            "cost": 1.75E+042
+            "cost": 1.75E+42
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1010,
-            "cost": 1.8E+042
+            "cost": 1.8E+42
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1025,
-            "cost": 5.34E+042
+            "cost": 5.34E+42
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1050,
-            "cost": 3.257E+043
+            "cost": 3.257E+43
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1100,
-            "cost": 1.21E+045
+            "cost": 1.21E+45
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1200,
-            "cost": 1.67E+048
+            "cost": 1.67E+48
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1400,
-            "cost": 3.2E+054
+            "cost": 3.2E+54
         },
         {
             "hero_id": 12,  # Gertrude
             "level": 1800,
-            "cost": 1.01E+066
+            "cost": 1.01E+66
         },
         {
             "hero_id": 12,  # Gertrude
@@ -1047,77 +1047,77 @@ def generate_updates():
         {
             "hero_id": 13,  # Twitterella
             "level": 10,
-            "cost": 563690000000
+            "cost": 563.69E+9
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 25,
-            "cost": 1660000000000
+            "cost": 1.66E+12
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 50,
-            "cost": 10170000000000
+            "cost": 10.17E+12
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 100,
-            "cost": 378270000000000
+            "cost": 378.27E+12
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 200,
-            "cost": 5.2318E+017
+            "cost": 5.2318E+17
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 400,
-            "cost": 1E+024
+            "cost": 1E+24
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 800,
-            "cost": 3.66E+036
+            "cost": 3.66E+36
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1000,
-            "cost": 1.401E+043
+            "cost": 1.401E+43
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1010,
-            "cost": 1.443E+043
+            "cost": 1.443E+43
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1025,
-            "cost": 4.272E+043
+            "cost": 4.272E+43
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1050,
-            "cost": 2.6053E+044
+            "cost": 2.6053E+44
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1100,
-            "cost": 9.68E+045
+            "cost": 9.68E+45
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1200,
-            "cost": 1.34E+049
+            "cost": 1.34E+49
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1400,
-            "cost": 2.563E+055
+            "cost": 2.563E+55
         },
         {
             "hero_id": 13,  # Twitterella
             "level": 1800,
-            "cost": 8.12E+066
+            "cost": 8.12E+66
         },
         {
             "hero_id": 13,  # Twitterella
@@ -1127,77 +1127,77 @@ def generate_updates():
         {
             "hero_id": 14,  # Master Hawk
             "level": 10,
-            "cost": 8450000000000
+            "cost": 8.45E+12
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 25,
-            "cost": 25000000000000
+            "cost": 25.00E+12
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 50,
-            "cost": 152470000000000
+            "cost": 152.47E+12
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 100,
-            "cost": 5.67E+015
+            "cost": 5.67E+15
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 200,
-            "cost": 7.84E+018
+            "cost": 7.84E+18
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 400,
-            "cost": 1.5E+025
+            "cost": 1.5E+25
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 800,
-            "cost": 5.489E+037
+            "cost": 5.489E+37
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1000,
-            "cost": 2.1003E+044
+            "cost": 2.1003E+44
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1010,
-            "cost": 2.1644E+044
+            "cost": 2.1644E+44
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1025,
-            "cost": 6.4044E+044
+            "cost": 6.4044E+44
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1050,
-            "cost": 3.9E+045
+            "cost": 3.9E+45
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1100,
-            "cost": 1.4525E+047
+            "cost": 1.4525E+47
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1200,
-            "cost": 2.0089E+050
+            "cost": 2.0089E+50
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1400,
-            "cost": 3.8429E+056
+            "cost": 3.8429E+56
         },
         {
             "hero_id": 14,  # Master Hawk
             "level": 1800,
-            "cost": 1.2168E+068
+            "cost": 1.2168E+68
         },
         {
             "hero_id": 14,  # Master Hawk
@@ -1207,77 +1207,77 @@ def generate_updates():
         {
             "hero_id": 15,  # Elpha
             "level": 10,
-            "cost": 84500000000000
+            "cost": 84.50E+12
         },
         {
             "hero_id": 15,  # Elpha
             "level": 25,
-            "cost": 250030000000000
+            "cost": 250.03E+12
         },
         {
             "hero_id": 15,  # Elpha
             "level": 50,
-            "cost": 1.52E+015
+            "cost": 1.52E+15
         },
         {
             "hero_id": 15,  # Elpha
             "level": 100,
-            "cost": 5.67E+016
+            "cost": 5.67E+16
         },
         {
             "hero_id": 15,  # Elpha
             "level": 200,
-            "cost": 7.842E+019
+            "cost": 7.842E+19
         },
         {
             "hero_id": 15,  # Elpha
             "level": 400,
-            "cost": 1.5003E+026
+            "cost": 1.5003E+26
         },
         {
             "hero_id": 15,  # Elpha
             "level": 800,
-            "cost": 5.4899E+038
+            "cost": 5.4899E+38
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1000,
-            "cost": 2.1E+045
+            "cost": 2.1E+45
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1010,
-            "cost": 2.16E+045
+            "cost": 2.16E+45
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1025,
-            "cost": 6.4E+045
+            "cost": 6.4E+45
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1050,
-            "cost": 3.905E+046
+            "cost": 3.905E+46
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1100,
-            "cost": 1.45E+048
+            "cost": 1.45E+48
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1200,
-            "cost": 2E+051
+            "cost": 2E+51
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1400,
-            "cost": 3.3252E+056
+            "cost": 3.3252E+56
         },
         {
             "hero_id": 15,  # Elpha
             "level": 1800,
-            "cost": 1.22E+069
+            "cost": 1.22E+69
         },
         {
             "hero_id": 15,  # Elpha
@@ -1287,77 +1287,77 @@ def generate_updates():
         {
             "hero_id": 16,  # Poppy
             "level": 10,
-            "cost": 1.69E+015
+            "cost": 1.69E+15
         },
         {
             "hero_id": 16,  # Poppy
             "level": 25,
-            "cost": 5E+015
+            "cost": 5E+15
         },
         {
             "hero_id": 16,  # Poppy
             "level": 50,
-            "cost": 3.049E+016
+            "cost": 3.049E+16
         },
         {
             "hero_id": 16,  # Poppy
             "level": 100,
-            "cost": 1.13E+018
+            "cost": 1.13E+18
         },
         {
             "hero_id": 16,  # Poppy
             "level": 200,
-            "cost": 1.56E+021
+            "cost": 1.56E+21
         },
         {
             "hero_id": 16,  # Poppy
             "level": 400,
-            "cost": 3E+027
+            "cost": 3E+27
         },
         {
             "hero_id": 16,  # Poppy
             "level": 800,
-            "cost": 1.098E+040
+            "cost": 1.098E+40
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1000,
-            "cost": 4.2E+046
+            "cost": 4.2E+46
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1010,
-            "cost": 4.328E+046
+            "cost": 4.328E+46
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1025,
-            "cost": 1.2808E+047
+            "cost": 1.2808E+47
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1050,
-            "cost": 7.8112E+045
+            "cost": 7.8112E+45
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1100,
-            "cost": 2.905E+049
+            "cost": 2.905E+49
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1200,
-            "cost": 4.017E+052
+            "cost": 4.017E+52
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1400,
-            "cost": 6.65E+057
+            "cost": 6.65E+57
         },
         {
             "hero_id": 16,  # Poppy
             "level": 1800,
-            "cost": 2.434E+070
+            "cost": 2.434E+70
         },
         {
             "hero_id": 16,  # Poppy
@@ -1367,77 +1367,77 @@ def generate_updates():
         {
             "hero_id": 17,  # Skulptor
             "level": 10,
-            "cost": 1.69E+016
+            "cost": 1.69E+16
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 25,
-            "cost": 5E+016
+            "cost": 5E+16
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 50,
-            "cost": 3.0495E+017
+            "cost": 3.0495E+17
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 100,
-            "cost": 1.134E+019
+            "cost": 1.134E+19
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 200,
-            "cost": 1.568E+022
+            "cost": 1.568E+22
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 400,
-            "cost": 3E+028
+            "cost": 3E+28
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 800,
-            "cost": 1.098E+041
+            "cost": 1.098E+41
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1000,
-            "cost": 4.2007E+047
+            "cost": 4.2007E+47
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1010,
-            "cost": 4.3289E+047
+            "cost": 4.3289E+47
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1025,
-            "cost": 1.28E+048
+            "cost": 1.28E+48
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1050,
-            "cost": 7.81E+048
+            "cost": 7.81E+48
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1100,
-            "cost": 2.905E+050
+            "cost": 2.905E+50
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1200,
-            "cost": 4.0178E+053
+            "cost": 4.0178E+53
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1400,
-            "cost": 6.65E+058
+            "cost": 6.65E+58
         },
         {
             "hero_id": 17,  # Skulptor
             "level": 1800,
-            "cost": 2.4335E+071
+            "cost": 2.4335E+71
         },
         {
             "hero_id": 17,  # Skulptor
@@ -1447,77 +1447,77 @@ def generate_updates():
         {
             "hero_id": 18,  # Skulptor
             "level": 10,
-            "cost": 5.0701E+017
+            "cost": 5.0701E+17
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 25,
-            "cost": 1.5E+018
+            "cost": 1.5E+18
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 50,
-            "cost": 9.14E+018
+            "cost": 9.14E+18
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 100,
-            "cost": 3.4023E+020
+            "cost": 3.4023E+20
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 200,
-            "cost": 4.7057E+023
+            "cost": 4.7057E+23
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 400,
-            "cost": 9.0017E+029
+            "cost": 9.0017E+29
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 800,
-            "cost": 3.29E+042
+            "cost": 3.29E+42
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1000,
-            "cost": 1.26E+049
+            "cost": 1.26E+49
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1010,
-            "cost": 1.298E+049
+            "cost": 1.298E+49
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1025,
-            "cost": 3.842E+049
+            "cost": 3.842E+49
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1050,
-            "cost": 2.3433E+050
+            "cost": 2.3433E+50
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1100,
-            "cost": 8.71E+051
+            "cost": 8.71E+51
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1200,
-            "cost": 1.205E+055
+            "cost": 1.205E+55
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1400,
-            "cost": 6.65E+058
+            "cost": 6.65E+58
         },
         {
             "hero_id": 18,  # Skulptor
             "level": 1800,
-            "cost": 2.4335E+071
+            "cost": 2.4335E+71
         },
         {
             "hero_id": 18,  # Skulptor
@@ -1527,77 +1527,77 @@ def generate_updates():
         {
             "hero_id": 19,  # Orba
             "level": 10,
-            "cost": 2.535E+019
+            "cost": 2.535E+19
         },
         {
             "hero_id": 19,  # Orba
             "level": 25,
-            "cost": 7.5E+019
+            "cost": 7.5E+19
         },
         {
             "hero_id": 19,  # Orba
             "level": 50,
-            "cost": 4.5743E+020
+            "cost": 4.5743E+20
         },
         {
             "hero_id": 19,  # Orba
             "level": 100,
-            "cost": 1.701E+022
+            "cost": 1.701E+22
         },
         {
             "hero_id": 19,  # Orba
             "level": 200,
-            "cost": 2.352E+025
+            "cost": 2.352E+25
         },
         {
             "hero_id": 19,  # Orba
             "level": 400,
-            "cost": 4.5E+031
+            "cost": 4.5E+31
         },
         {
             "hero_id": 19,  # Orba
             "level": 800,
-            "cost": 1.6469E+044
+            "cost": 1.6469E+44
         },
         {
             "hero_id": 19,  # Orba
             "level": 1000,
-            "cost": 6.3011E+050
+            "cost": 6.3011E+50
         },
         {
             "hero_id": 19,  # Orba
             "level": 1010,
-            "cost": 6.4934E+050
+            "cost": 6.4934E+50
         },
         {
             "hero_id": 19,  # Orba
             "level": 1025,
-            "cost": 1.92E+051
+            "cost": 1.92E+51
         },
         {
             "hero_id": 19,  # Orba
             "level": 1050,
-            "cost": 1.171E+052
+            "cost": 1.171E+52
         },
         {
             "hero_id": 19,  # Orba
             "level": 1100,
-            "cost": 4.3575E+053
+            "cost": 4.3575E+53
         },
         {
             "hero_id": 19,  # Orba
             "level": 1200,
-            "cost": 6.0267E+056
+            "cost": 6.0267E+56
         },
         {
             "hero_id": 19,  # Orba
             "level": 1400,
-            "cost": 9.976E+061
+            "cost": 9.976E+61
         },
         {
             "hero_id": 19,  # Orba
             "level": 1800,
-            "cost": 3.6503E+074
+            "cost": 3.6503E+74
         },
         {
             "hero_id": 19,  # Orba
@@ -1607,77 +1607,77 @@ def generate_updates():
         {
             "hero_id": 20,  # Remus
             "level": 10,
-            "cost": 7.6052E+020
+            "cost": 7.6052E+20
         },
         {
             "hero_id": 20,  # Remus
             "level": 25,
-            "cost": 2.25E+021
+            "cost": 2.25E+21
         },
         {
             "hero_id": 20,  # Remus
             "level": 50,
-            "cost": 1.372E+022
+            "cost": 1.372E+22
         },
         {
             "hero_id": 20,  # Remus
             "level": 100,
-            "cost": 5.1035E+023
+            "cost": 5.1035E+23
         },
         {
             "hero_id": 20,  # Remus
             "level": 200,
-            "cost": 7.0586E+026
+            "cost": 7.0586E+26
         },
         {
             "hero_id": 20,  # Remus
             "level": 400,
-            "cost": 1.35E+033
+            "cost": 1.35E+33
         },
         {
             "hero_id": 20,  # Remus
             "level": 800,
-            "cost": 4.94E+045
+            "cost": 4.94E+45
         },
         {
             "hero_id": 20,  # Remus
             "level": 1000,
-            "cost": 1.89E+052
+            "cost": 1.89E+52
         },
         {
             "hero_id": 20,  # Remus
             "level": 1010,
-            "cost": 1.948E+052
+            "cost": 1.948E+52
         },
         {
             "hero_id": 20,  # Remus
             "level": 1025,
-            "cost": 5.763E+052
+            "cost": 5.763E+52
         },
         {
             "hero_id": 20,  # Remus
             "level": 1050,
-            "cost": 3.515E+053
+            "cost": 3.515E+53
         },
         {
             "hero_id": 20,  # Remus
             "level": 1100,
-            "cost": 1.307E+055
+            "cost": 1.307E+55
         },
         {
             "hero_id": 20,  # Remus
             "level": 1200,
-            "cost": 1.56E+057
+            "cost": 1.56E+57
         },
         {
             "hero_id": 20,  # Remus
             "level": 1400,
-            "cost": 2.99E+063
+            "cost": 2.99E+63
         },
         {
             "hero_id": 20,  # Remus
             "level": 1800,
-            "cost": 1.095E+076
+            "cost": 1.095E+76
         },
         {
             "hero_id": 20,  # Remus
@@ -1687,77 +1687,77 @@ def generate_updates():
         {
             "hero_id": 21,  # Mickey
             "level": 10,
-            "cost": 2.514E+022
+            "cost": 2.514E+22
         },
         {
             "hero_id": 21,  # Mickey
             "level": 25,
-            "cost": 7.439E+022
+            "cost": 7.439E+22
         },
         {
             "hero_id": 21,  # Mickey
             "level": 50,
-            "cost": 4.5371E+023
+            "cost": 4.5371E+23
         },
         {
             "hero_id": 21,  # Mickey
             "level": 100,
-            "cost": 1.687E+025
+            "cost": 1.687E+25
         },
         {
             "hero_id": 21,  # Mickey
             "level": 200,
-            "cost": 2.333E+028
+            "cost": 2.333E+28
         },
         {
             "hero_id": 21,  # Mickey
             "level": 400,
-            "cost": 4.464E+034
+            "cost": 4.464E+34
         },
         {
             "hero_id": 21,  # Mickey
             "level": 800,
-            "cost": 1.6336E+047
+            "cost": 1.6336E+47
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1000,
-            "cost": 6.2499E+053
+            "cost": 6.2499E+53
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1010,
-            "cost": 6.4406E+053
+            "cost": 6.4406E+53
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1025,
-            "cost": 1.9E+054
+            "cost": 1.9E+54
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1050,
-            "cost": 1.162E+055
+            "cost": 1.162E+55
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1100,
-            "cost": 4.322E+056
+            "cost": 4.322E+56
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1200,
-            "cost": 5.172E+058
+            "cost": 5.172E+58
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1400,
-            "cost": 9.894E+064
+            "cost": 9.894E+64
         },
         {
             "hero_id": 21,  # Mickey
             "level": 1800,
-            "cost": 3.6206E+077
+            "cost": 3.6206E+77
         },
         {
             "hero_id": 21,  # Mickey
@@ -1767,77 +1767,77 @@ def generate_updates():
         {
             "hero_id": 22,  # Peter
             "level": 10,
-            "cost": 2.51E+024
+            "cost": 2.51E+24
         },
         {
             "hero_id": 22,  # Peter
             "level": 25,
-            "cost": 7.43E+024
+            "cost": 7.43E+24
         },
         {
             "hero_id": 22,  # Peter
             "level": 50,
-            "cost": 4.537E+025
+            "cost": 4.537E+25
         },
         {
             "hero_id": 22,  # Peter
             "level": 100,
-            "cost": 1.68E+027
+            "cost": 1.68E+27
         },
         {
             "hero_id": 22,  # Peter
             "level": 200,
-            "cost": 2.33E+030
+            "cost": 2.33E+30
         },
         {
             "hero_id": 22,  # Peter
             "level": 400,
-            "cost": 4.46E+036
+            "cost": 4.46E+36
         },
         {
             "hero_id": 22,  # Peter
             "level": 800,
-            "cost": 1.633E+049
+            "cost": 1.633E+49
         },
         {
             "hero_id": 22,  # Peter
             "level": 1000,
-            "cost": 6.249E+055
+            "cost": 6.249E+55
         },
         {
             "hero_id": 22,  # Peter
             "level": 1010,
-            "cost": 6.44E+055
+            "cost": 6.44E+55
         },
         {
             "hero_id": 22,  # Peter
             "level": 1025,
-            "cost": 1.9057E+056
+            "cost": 1.9057E+56
         },
         {
             "hero_id": 22,  # Peter
             "level": 1050,
-            "cost": 1.16E+057
+            "cost": 1.16E+57
         },
         {
             "hero_id": 22,  # Peter
             "level": 1100,
-            "cost": 3.74E+057
+            "cost": 3.74E+57
         },
         {
             "hero_id": 22,  # Peter
             "level": 1200,
-            "cost": 5.17E+060
+            "cost": 5.17E+60
         },
         {
             "hero_id": 22,  # Peter
             "level": 1400,
-            "cost": 9.89E+066
+            "cost": 9.89E+66
         },
         {
             "hero_id": 22,  # Peter
             "level": 1800,
-            "cost": 3.621E+079
+            "cost": 3.621E+79
         },
         {
             "hero_id": 22,  # Peter
@@ -1847,77 +1847,77 @@ def generate_updates():
         {
             "hero_id": 23,  # Teeny
             "level": 10,
-            "cost": 5.0186E+026
+            "cost": 5.0186E+26
         },
         {
             "hero_id": 23,  # Teeny
             "level": 25,
-            "cost": 1.48E+027
+            "cost": 1.48E+27
         },
         {
             "hero_id": 23,  # Teeny
             "level": 50,
-            "cost": 9.05E+027
+            "cost": 9.05E+27
         },
         {
             "hero_id": 23,  # Teeny
             "level": 100,
-            "cost": 4.6579E+032
+            "cost": 4.6579E+32
         },
         {
             "hero_id": 23,  # Teeny
             "level": 200,
-            "cost": 4.6579E+032
+            "cost": 4.6579E+32
         },
         {
             "hero_id": 23,  # Teeny
             "level": 400,
-            "cost": 8.9103E+038
+            "cost": 8.9103E+38
         },
         {
             "hero_id": 23,  # Teeny
             "level": 800,
-            "cost": 3.26E+051
+            "cost": 3.26E+51
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1000,
-            "cost": 5.8E+057
+            "cost": 5.8E+57
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1010,
-            "cost": 1.11E+057
+            "cost": 1.11E+57
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1025,
-            "cost": 3.29E+057
+            "cost": 3.29E+57
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1050,
-            "cost": 2.007E+058
+            "cost": 2.007E+58
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1100,
-            "cost": 7.4644E+059
+            "cost": 7.4644E+59
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1200,
-            "cost": 1.03E+063
+            "cost": 1.03E+63
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1400,
-            "cost": 1.97E+069
+            "cost": 1.97E+69
         },
         {
             "hero_id": 23,  # Teeny
             "level": 1800,
-            "cost": 7.23E+081
+            "cost": 7.23E+81
         },
         {
             "hero_id": 23,  # Teeny
@@ -1927,77 +1927,77 @@ def generate_updates():
         {
             "hero_id": 24,  # Deznis
             "level": 10,
-            "cost": 2.0095E+029
+            "cost": 2.0095E+29
         },
         {
             "hero_id": 24,  # Deznis
             "level": 25,
-            "cost": 5.9458E+029
+            "cost": 5.9458E+29
         },
         {
             "hero_id": 24,  # Deznis
             "level": 50,
-            "cost": 3.62E+030
+            "cost": 3.62E+30
         },
         {
             "hero_id": 24,  # Deznis
             "level": 100,
-            "cost": 1.3485E+032
+            "cost": 1.3485E+32
         },
         {
             "hero_id": 24,  # Deznis
             "level": 200,
-            "cost": 1.8651E+035
+            "cost": 1.8651E+35
         },
         {
             "hero_id": 24,  # Deznis
             "level": 400,
-            "cost": 3.5677E+041
+            "cost": 3.5677E+41
         },
         {
             "hero_id": 24,  # Deznis
             "level": 800,
-            "cost": 1.3E+054
+            "cost": 1.3E+54
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1000,
-            "cost": 2.32E+060
+            "cost": 2.32E+60
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1010,
-            "cost": 4.4539E+059
+            "cost": 4.4539E+59
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1025,
-            "cost": 1.32E+060
+            "cost": 1.32E+60
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1050,
-            "cost": 8.04E+060
+            "cost": 8.04E+60
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1100,
-            "cost": 2.9888E+062
+            "cost": 2.9888E+62
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1200,
-            "cost": 4.1338E+065
+            "cost": 4.1338E+65
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1400,
-            "cost": 7.9075E+071
+            "cost": 7.9075E+71
         },
         {
             "hero_id": 24,  # Deznis
             "level": 1800,
-            "cost": 2.89E+084
+            "cost": 2.89E+84
         },
         {
             "hero_id": 24,  # Deznis
@@ -2007,77 +2007,77 @@ def generate_updates():
         {
             "hero_id": 25,  # Hamlette
             "level": 10,
-            "cost": 2.2053E+032
+            "cost": 2.2053E+32
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 25,
-            "cost": 6.5252E+032
+            "cost": 6.5252E+32
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 50,
-            "cost": 3.97E+033
+            "cost": 3.97E+33
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 100,
-            "cost": 1.4799E+035
+            "cost": 1.4799E+35
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 200,
-            "cost": 2.0468E+038
+            "cost": 2.0468E+38
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 400,
-            "cost": 3.9154E+044
+            "cost": 3.9154E+44
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 800,
-            "cost": 1.43E+057
+            "cost": 1.43E+57
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1000,
-            "cost": 2.55E+063
+            "cost": 2.55E+63
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1010,
-            "cost": 4.8878E+062
+            "cost": 4.8878E+62
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1025,
-            "cost": 1.45E+063
+            "cost": 1.45E+63
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1050,
-            "cost": 8.82E+063
+            "cost": 8.82E+63
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1100,
-            "cost": 3.28E+065
+            "cost": 3.28E+65
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1200,
-            "cost": 4.5365E+068
+            "cost": 4.5365E+68
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1400,
-            "cost": 8.6779E+074
+            "cost": 8.6779E+74
         },
         {
             "hero_id": 25,  # Hamlette
             "level": 1800,
-            "cost": 3.18E+087
+            "cost": 3.18E+87
         },
         {
             "hero_id": 25,  # Hamlette
@@ -2087,77 +2087,77 @@ def generate_updates():
         {
             "hero_id": 26,  # Eistor
             "level": 10,
-            "cost": 2.432E+037
+            "cost": 2.432E+37
         },
         {
             "hero_id": 26,  # Eistor
             "level": 25,
-            "cost": 7.196E+037
+            "cost": 7.196E+37
         },
         {
             "hero_id": 26,  # Eistor
             "level": 50,
-            "cost": 4.3884E+038
+            "cost": 4.3884E+38
         },
         {
             "hero_id": 26,  # Eistor
             "level": 100,
-            "cost": 1.632E+040
+            "cost": 1.632E+40
         },
         {
             "hero_id": 26,  # Eistor
             "level": 200,
-            "cost": 2.257E+043
+            "cost": 2.257E+43
         },
         {
             "hero_id": 26,  # Eistor
             "level": 400,
-            "cost": 4.317E+049
+            "cost": 4.317E+49
         },
         {
             "hero_id": 26,  # Eistor
             "level": 800,
-            "cost": 1.4698E+062
+            "cost": 1.4698E+62
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1000,
-            "cost": 2.8115E+068
+            "cost": 2.8115E+68
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1010,
-            "cost": 5.39E+067
+            "cost": 5.39E+67
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1025,
-            "cost": 1.5949E+068
+            "cost": 1.5949E+68
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1050,
-            "cost": 9.7264E+068
+            "cost": 9.7264E+68
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1100,
-            "cost": 3.617E+070
+            "cost": 3.617E+70
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1200,
-            "cost": 5.003E+073
+            "cost": 5.003E+73
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1400,
-            "cost": 9.57E+079
+            "cost": 9.57E+79
         },
         {
             "hero_id": 26,  # Eistor
             "level": 1800,
-            "cost": 3.5019E+092
+            "cost": 3.5019E+92
         },
         {
             "hero_id": 26,  # Eistor
@@ -2167,72 +2167,72 @@ def generate_updates():
         {
             "hero_id": 27,  # Flavius
             "level": 10,
-            "cost": 2.669E+047
+            "cost": 2.669E+47
         },
         {
             "hero_id": 27,  # Flavius
             "level": 25,
-            "cost": 7.8973E+047
+            "cost": 7.8973E+47
         },
         {
             "hero_id": 27,  # Flavius
             "level": 50,
-            "cost": 4.81E+048
+            "cost": 4.81E+48
         },
         {
             "hero_id": 27,  # Flavius
             "level": 100,
-            "cost": 1.791E+050
+            "cost": 1.791E+50
         },
         {
             "hero_id": 27,  # Flavius
             "level": 200,
-            "cost": 2.4772E+053
+            "cost": 2.4772E+53
         },
         {
             "hero_id": 27,  # Flavius
             "level": 400,
-            "cost": 4.4081E+059
+            "cost": 4.4081E+59
         },
         {
             "hero_id": 27,  # Flavius
             "level": 800,
-            "cost": 1.61E+072
+            "cost": 1.61E+72
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1000,
-            "cost": 3.09E+078
+            "cost": 3.09E+78
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1010,
-            "cost": 5.9156E+077
+            "cost": 5.9156E+77
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1025,
-            "cost": 1.75E+078
+            "cost": 1.75E+78
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1050,
-            "cost": 1.067E+079
+            "cost": 1.067E+79
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1100,
-            "cost": 3.9698E+080
+            "cost": 3.9698E+80
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1200,
-            "cost": 5.4905E+083
+            "cost": 5.4905E+83
         },
         {
             "hero_id": 27,  # Flavius
             "level": 1400,
-            "cost": 1.05E+090
+            "cost": 1.05E+90
         },
         {
             "hero_id": 27,  # Flavius
@@ -2247,67 +2247,67 @@ def generate_updates():
         {
             "hero_id": 28,  # Chester
             "level": 10,
-            "cost": 2.7321E+062
+            "cost": 2.7321E+62
         },
         {
             "hero_id": 28,  # Chester
             "level": 25,
-            "cost": 8.0838E+062
+            "cost": 8.0838E+62
         },
         {
             "hero_id": 28,  # Chester
             "level": 50,
-            "cost": 4.93E+063
+            "cost": 4.93E+63
         },
         {
             "hero_id": 28,  # Chester
             "level": 100,
-            "cost": 1.8334E+065
+            "cost": 1.8334E+65
         },
         {
             "hero_id": 28,  # Chester
             "level": 200,
-            "cost": 2.5357E+068
+            "cost": 2.5357E+68
         },
         {
             "hero_id": 28,  # Chester
             "level": 400,
-            "cost": 4.8506E+074
+            "cost": 4.8506E+74
         },
         {
             "hero_id": 28,  # Chester
             "level": 800,
-            "cost": 1.77E+087
+            "cost": 1.77E+87
         },
         {
             "hero_id": 28,  # Chester
             "level": 1000,
-            "cost": 3.4E+093
+            "cost": 3.4E+93
         },
         {
             "hero_id": 28,  # Chester
             "level": 1010,
-            "cost": 6.5095E+092
+            "cost": 6.5095E+92
         },
         {
             "hero_id": 28,  # Chester
             "level": 1025,
-            "cost": 1.93E+093
+            "cost": 1.93E+93
         },
         {
             "hero_id": 28,  # Chester
             "level": 1050,
-            "cost": 1.175E+094
+            "cost": 1.175E+94
         },
         {
             "hero_id": 28,  # Chester
             "level": 1100,
-            "cost": 4.3683E+095
+            "cost": 4.3683E+95
         },
         {
             "hero_id": 28,  # Chester
             "level": 1200,
-            "cost": 6.0416E+098
+            "cost": 6.0416E+98
         },
         {
             "hero_id": 28,  # Chester
@@ -2327,32 +2327,32 @@ def generate_updates():
         {
             "hero_id": 29,  # Mohacas
             "level": 10,
-            "cost": 3.01E+082
+            "cost": 3.01E+82
         },
         {
             "hero_id": 29,  # Mohacas
             "level": 25,
-            "cost": 8.906E+082
+            "cost": 8.906E+82
         },
         {
             "hero_id": 29,  # Mohacas
             "level": 50,
-            "cost": 5.4314E+083
+            "cost": 5.4314E+83
         },
         {
             "hero_id": 29,  # Mohacas
             "level": 100,
-            "cost": 2.02E+085
+            "cost": 2.02E+85
         },
         {
             "hero_id": 29,  # Mohacas
             "level": 200,
-            "cost": 2.794E+088
+            "cost": 2.794E+88
         },
         {
             "hero_id": 29,  # Mohacas
             "level": 400,
-            "cost": 5.344E+094
+            "cost": 5.344E+94
         },
         {
             "hero_id": 29,  # Mohacas
@@ -2407,17 +2407,17 @@ def generate_updates():
         {
             "hero_id": 30,  # Jacqulin
             "level": 10,
-            "cost": 3.01E+097
+            "cost": 3.01E+97
         },
         {
             "hero_id": 30,  # Jacqulin
             "level": 25,
-            "cost": 8.906E+097
+            "cost": 8.906E+97
         },
         {
             "hero_id": 30,  # Jacqulin
             "level": 50,
-            "cost": 5.4314E+098
+            "cost": 5.4314E+98
         },
         {
             "hero_id": 30,  # Jacqulin
