@@ -20,6 +20,7 @@ coverage==4.0.3
 decorator==4.0.9
 flipflop==1.0
 guess-language==0.2
+gunicorn==19.4.5
 itsdangerous==0.24
 pbr==1.8.1
 psycopg2==2.6.1
