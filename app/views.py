@@ -84,40 +84,41 @@ def save_hero_cost():
 @app.route('/generate_updates')
 def generate_updates():
     heroes = [
-        {'name': 'Takeda'},
-        {'name': 'Contessa'},
-        {'name': 'Hornetta'},
-        {'name': 'Mila'},
-        {'name': 'Terra'},
-        {'name': 'Inquisireaux'},
-        {'name': 'Charlotte'},
-        {'name': 'Jordaan'},
-        {'name': 'Jukka'},
-        {'name': 'Milo'},
-        {'name': 'Macelord'},
-        {'name': 'Gertrude'},
-        {'name': 'Twitterella'},
-        {'name': 'Master Hawk'},
-        {'name': 'Elpha'},
-        {'name': 'Poppy'},
-        {'name': 'Skulptor'},
-        {'name': 'Sterling'},
-        {'name': 'Orba'},
-        {'name': 'Remus'},
-        {'name': 'Mickey'},
-        {'name': 'Peter'},
-        {'name': 'Teeny'},
-        {'name': 'Deznis'},
-        {'name': 'Hamlette'},
-        {'name': 'Eistor'},
-        {'name': 'Flavius'},
-        {'name': 'Chester'},
-        {'name': 'Mohacas'},
-        {'name': 'Jacqulin'},
-        {'name': 'Pixie'},
-        {'name': 'Jackalope'},
-        {'name': 'Dark Lord'}
+        {'name': 'Takeda', 'base': '5.00E+01'},
+        {'name': 'Contessa', 'base': '1.75E+02'},
+        {'name': 'Hornetta', 'base': '673.75'},
+        {'name': 'Mila', 'base': '2853.33'},
+        {'name': 'Terra', 'base': '1.33E+04'},
+        {'name': 'Inquisireaux', 'base': '6.81E+04'},
+        {'name': 'Charlotte', 'base': '3.84E+05'},
+        {'name': 'Jordaan', 'base': '2.38E+06'},
+        {'name': 'Jukka', 'base': '2.38E+07'},
+        {'name': 'Milo', 'base': '1.43E+08'},
+        {'name': 'Macelord', 'base': '9.43E+08'},
+        {'name': 'Gertrude', 'base': '6.84E+09'},
+        {'name': 'Twitterella', 'base': '5.47E+10'},
+        {'name': 'Master Hawk', 'base': '8.20E+11'},
+        {'name': 'Elpha', 'base': '8.20E+12'},
+        {'name': 'Poppy', 'base': '1.64E+14'},
+        {'name': 'Skulptor', 'base': '1.64E+15'},
+        {'name': 'Sterling', 'base': '4.92E+16'},
+        {'name': 'Orba', 'base': '2.46E+18'},
+        {'name': 'Remus', 'base': '7.38E+19'},
+        {'name': 'Mickey', 'base': '2.44E+21'},
+        {'name': 'Peter', 'base': '2.44E+23'},
+        {'name': 'Teeny', 'base': '4.87E+25'},
+        {'name': 'Deznis', 'base': '1.95E+28'},
+        {'name': 'Hamlette', 'base': '2.14E+31'},
+        {'name': 'Eistor', 'base': '2.36E+36'},
+        {'name': 'Flavius', 'base': '2.59E+46'},
+        {'name': 'Chester', 'base': '2.85E+61'},
+        {'name': 'Mohacas', 'base': '3.14E+81'},
+        {'name': 'Jacqulin', 'base': '3.14E+96'},
+        {'name': 'Pixie', 'base': '3.76E+116'},
+        {'name': 'Jackalope', 'base': '4.14E+136'},
+        {'name': 'Dark Lord', 'base': '4.56E+156'}
     ]
+
     upgrades = [
         {
             "hero_id": 1,  # Takeda
@@ -2771,10 +2772,11 @@ def generate_updates():
         for h_db in heroes_db:
             if h['name'] == h_db.name:
                 hero = h_db
+                hero.basecost = str(h['base'])
                 break
 
         if hero is None:
-            hero = models.Hero(name=h['name'])
+            hero = models.Hero(name=h['name'], basecost=str(h['base']))
 
         db.session.add(hero)
         msg += "Added " + hero.name + "<br />"
